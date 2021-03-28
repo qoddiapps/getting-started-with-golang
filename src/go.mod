@@ -1,1 +1,1 @@
-github.com/sirupsen/logrus
+require github.com/sirupsen/logrus
