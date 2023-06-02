@@ -1,1 +1,1 @@
-web: bin/getting-started-with-golang
+web: getting-started-with-golang
